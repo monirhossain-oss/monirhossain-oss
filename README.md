@@ -46,22 +46,22 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/md-monir7/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monirhossain-oss)
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=monirhossain-oss&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monirhossain-oss&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=monirhossain-oss&theme=tokyonight)
 
 ---
 
 ### 📌 Featured Projects
 #### 🌿 Gardening Community & Resource Hub
 A platform for gardening enthusiasts with authentication, CRUD, private routes, and more.  
-🔗 [Live Site](https://your-live-link.com) | 💻 [Repository](https://github.com/yourusername/projectname)  
+🔗 [Live Site](https://your-live-link.com](https://social-events-platform.web.app/ ) | 💻 [Repository](https://github.com/yourusername/projectname)  
 **Tech Used:** React, Node.js, Express, MongoDB, Firebase  
 
 #### 🏦 Mobile Banking Website
@@ -71,4 +71,4 @@ A responsive mobile banking platform built with HTML, CSS, and JavaScript.
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [yourusername](https://github.com/monirhossain-oss)
