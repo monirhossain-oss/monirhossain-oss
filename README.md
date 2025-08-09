@@ -74,4 +74,4 @@ A responsive mobile banking platform built with HTML, CSS, and JavaScript.
 
 ---
 
-⭐️ From [yourusername](https://github.com/monirhossain-oss)
+⭐️ From [monirhossain-oss](https://github.com/monirhossain-oss)
